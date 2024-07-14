@@ -14,6 +14,6 @@ Now there are some keybinds that you need to know
 2. Zelda: Ctrl+Alt+O
 3. Rick Roll: Ctrl+Alt+P
 4. China (Aka "Yo phone is linging"): Ctrl+Alt+I
-
+5. Happy birthday: Ctrl+Alt+U
 
    Thats it lmao
