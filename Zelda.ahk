@@ -22,14 +22,12 @@ Sleep 250
 Send k
 Sleep 250
 Send m
-Sleep 250
+Sleep 425
 Send j
 Sleep 250
 Send m
 Sleep 250
 Send n
-Sleep 250
-Send b
 Sleep 500
 Send m
 Sleep 375
