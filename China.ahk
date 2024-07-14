@@ -1,5 +1,5 @@
 ﻿!^i::
-Send L
+Send l
 Sleep 100
 Send l
 Sleep 100
