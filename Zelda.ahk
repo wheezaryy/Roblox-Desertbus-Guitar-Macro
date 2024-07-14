@@ -32,9 +32,9 @@ Sleep 250
 Send b
 Sleep 500
 Send m
-Sleep 250
+Sleep 375
+Send b
+Sleep 375
 Send n
 Sleep 375
 Send v
-Sleep 250
-Send c
