@@ -46,6 +46,8 @@ Sleep 150
 Send k
 Sleep 150
 Send k
+Sleep 150
+Send k
 Sleep 275
 Send m
 Sleep 150
