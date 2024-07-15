@@ -15,5 +15,6 @@ Now there are some keybinds that you need to know
 3. Rick Roll: Ctrl+Alt+P
 4. China (Aka "Yo phone is linging"): Ctrl+Alt+I
 5. Happy birthday: Ctrl+Alt+U
-
+6. Chill melody: Ctrl+Alt+Y
+7. Ballin: Ctrl+Alt+T
    Thats it lmao
