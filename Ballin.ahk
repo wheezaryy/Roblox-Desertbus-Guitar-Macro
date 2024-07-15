@@ -6,7 +6,7 @@ Sleep 150
 Send m
 Sleep 275
 Send j
-Sleep 150
+Sleep 275
 Send m
 Sleep 275
 Send n
