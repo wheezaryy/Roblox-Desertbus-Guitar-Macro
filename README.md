@@ -1,6 +1,7 @@
 # Roblox-Desertbus-Guitar-Macro
 
-I've been working on some script for this roblox game called desert bus # NOT THE EVADE MAP!!!
+I've been working on some script for this roblox game called desert bus 
+# NOT THE EVADE MAP!!!
 
 How to install and use autohotkey
 1. Download https://www.autohotkey.com
