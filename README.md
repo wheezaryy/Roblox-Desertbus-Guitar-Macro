@@ -17,4 +17,6 @@ Now there are some keybinds that you need to know
 5. Happy birthday: Ctrl+Alt+U
 6. Chill melody: Ctrl+Alt+Y
 7. Ballin: Ctrl+Alt+T
+8. Undertale Intro Ctrl+Alt+R
+
    Thats it lmao
