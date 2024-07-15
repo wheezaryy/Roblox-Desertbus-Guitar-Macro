@@ -18,5 +18,5 @@ Now there are some keybinds that you need to know
 6. Chill melody: Ctrl+Alt+Y
 7. Ballin: Ctrl+Alt+T
 8. Undertale Intro Ctrl+Alt+R
-
+9. annoyance (AKA Annoying button mashing): Ctrl+Alt+M
    Thats it lmao
