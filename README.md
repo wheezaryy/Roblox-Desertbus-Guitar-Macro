@@ -20,4 +20,5 @@ Now there are some keybinds that you need to know
 7. Ballin: Ctrl+Alt+T
 8. Undertale Intro Ctrl+Alt+R
 9. annoyance (AKA Annoying button mashing): Ctrl+Alt+M
+10. Metallica - One machine gun riff: Ctrl+Alt+L
    Thats it lmao
