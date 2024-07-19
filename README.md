@@ -21,4 +21,4 @@ Now there are some keybinds that you need to know
 8. Undertale Intro Ctrl+Alt+R
 9. annoyance (AKA Annoying button mashing): Ctrl+Alt+M
 10. Metallica - One machine gun riff: Ctrl+Alt+L
-11: Zeldas Lullaby: Ctrl+Alt+] (Credits to @phrogfibsh on Discord)
+11. Zeldas Lullaby: Ctrl+Alt+] (Credits to @phrogfibsh on Discord)
